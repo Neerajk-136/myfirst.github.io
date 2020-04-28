@@ -1,0 +1,143 @@
+h1{ 
+font-size:30px;
+color:red;
+width:none;
+   margin:0 auto 0 auto;}
+
+.intro{}
+
+.neeraj{position:relative;
+left:500px;}
+
+.k{ color:#66BFBF;
+ font-weight:normal;
+line-height:2;
+position:relative;
+left:500px;}
+
+
+.l{position:relative;
+left:550px;}
+
+body{margin:0;
+text-align:center;
+font-family: 'Lobster', cursive;
+
+}
+  .top-container{background-color:lightpink;
+  position:relative;
+  padding-top:100px;
+height:500px;
+
+  }
+
+.middle-container{background-color:#EAF6F6;
+margin:100px 0;
+padding-top:30px;
+
+}
+
+.bottom-container{background-color:red;
+padding:50px 0 20px;
+
+}
+.mountain{ position:absolute;
+top:260px;}
+.cloud2{position:absolute;
+top:10px;
+left:900px;
+height:100px;
+
+}
+.cloud:hover{color:red;}
+.cloud{ 
+position:absolute;
+background-color:pink;
+left:250px;
+bottom:80px;
+}
+.pro{text-decoration:underline;}
+.p{height:230px;
+width:25%;
+float:left;
+margin-right:30px;}
+
+.footer-link2{color:#11999E;}
+.footer-link3{color:#11999E;}
+.footer-link1{color:#11999E;}
+
+
+h2{color:#11999E;
+margin:auto;
+padding-bottom:10px;}
+
+
+h3{color:#11999E;}
+.skills{ width:50%;
+margin:100px auto 100px auto;
+line-height:2;
+text-align:left;
+
+}
+.r{width:25%;
+float:right;
+margin-right:30px;
+margin-top:30px;}
+.skill-row{margin:100px auto 100px auto;}
+
+.nk{ width:80%;}
+.pk{width:50%;}
+.profile{width:25%;
+margin:auto;}
+
+
+.j{width:25%;
+height:230px;
+}
+.end{width:25%;
+margin:40px auto 60px auto;}
+
+.contact-me{ margin:40px auto 60px auto;
+position:relative;
+left:500px;}
+
+hr{
+border:dotted #EAF6F6 6px;
+border-bottom:none;
+width:4%;
+margin:100px auto;
+
+}
+
+a{margin:10px 20px;
+text-decoration:none;
+position:relative;
+left:500px;}
+
+a:hover{color:white;}
+
+
+.all {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: monospace;
+   font-size: 49px;
+   font-weight: 400;
+   padding: 31px;
+   text-shadow: 24px 6px 6px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.l{height:0.75rem;}
